@@ -1,3 +1,6 @@
+#TestWorld ignore
+Content/MyPackage/Level/TestWorld.umap
+
 # Visual Studio 2015 user specific files
 .vs/
 
