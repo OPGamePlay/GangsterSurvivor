@@ -76,4 +76,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 /Content/Levels/*
-!/Content/Levels/levelInfo/*
+!/Content/Levels/levelInfo
